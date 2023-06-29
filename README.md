@@ -1,6 +1,6 @@
 # Odin-Recipe-Website
 
-Live Site :- https://github.com/Ankitsinghcool32/odin-recipes.git
+Live Site :- Ankitsinghcool32.github.io/odin-recipes/
 
 This Project is about Making a Recipe Website Using Html Only
 
