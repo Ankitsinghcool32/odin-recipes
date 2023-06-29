@@ -1,6 +1,6 @@
 # Odin-Recipe-Website
 
-Live Site :- 135949443+Ankitsinghcool32@users.noreply.github.com/odin-recipes.git
+Live Site :- 135949443+Ankitsinghcool32@users.noreply.github.com/odin-recipes.git/
 
 This Project is about Making a Recipe Website Using Html Only
 
