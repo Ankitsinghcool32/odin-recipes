@@ -1,9 +1,9 @@
-# odin-recipe
-title - Project Recipe
+# Odin-Recipe-Website
+Title - Project Recipe
 
-This project is about making a recipe website using html only
+This Project is about Making a Recipe Website Using Html Only
 
-By completing this project i have try to demonstate that i have basic 
-uderstanding of html and i can use it to make basic static webpages
-also this project helped me improve my understanding of git and github
+By completing this project i have tried to demonstate that i have basic 
+uderstanding of html and i can use it to make basic static webpages.
+also this project helped me improve my understanding of git and github.
 
