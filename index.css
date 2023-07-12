@@ -1,0 +1,47 @@
+*{
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c2a3d1;
+    margin: 20px;
+    margin-top: 80px;
+}
+
+
+h1{
+    color: darkblue;
+    font-size: 40px;
+}
+
+  .recipe-site-logo img {
+
+    margin-left: -10px;
+    padding: 2px;
+    width: 400px; 
+
+  }
+
+    .favourate-recipe{
+        padding: 0px; 
+    }
+
+  
+
+.frontpage{
+    border: 3px solid red;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 4px rgba(14, 4, 4, 0.5); 
+}
+    
+.recipe.pics a {
+    background-color: blue;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: white;
+  }
